@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    padding: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.avatar {
+    width: 150px;
+    border-radius: 5px;
+}
+
+.card {
+    width: 400px;
+    /* margin: 0 auto; */
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #DCDCDC;
+    color: #222222;
+    border-block: 6px solid #797b84;
+    border-radius: 5px;
+}
+p {
+    font-weight: 500;
+}
+
+/*
+Stretch goals:
+Find other ways you can personalize 
+the design of your business card, e.g.:
+- change the border(s)
+- add border radius
+- shuffle the layout
+- shadows        🤯
+- hover effects  🤯🤯
+- animations     🤯🤯🤯
+*/
+ 
+/*
+Final challenge:
+Download the code to your local computer and place it
+in a folder called "business-card"
+*/
