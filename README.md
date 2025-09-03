@@ -9,6 +9,10 @@ This is a digital business card created using **HTML** and **CSS**. The goal of 
 - Clean, professional color palette
 - Uses semantic HTML5 elements
 
+## How to view
+
+To view the live project, [click here](https://business-card-golden.netlify.app/).
+
 ## Technologies Used
 
 - HTML5
